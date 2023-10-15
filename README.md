@@ -12,7 +12,7 @@
 
 ---
 
-- 最佳化玉山工作流程與履歷，相關紀錄<br> https://github.com/RuianLee/esun-bank-record
+- 最佳化玉山工作流程，轉換成履歷，<br> https://github.com/RuianLee/esun-bank-record
 - Neetcode 刷題(水球君 Discord 社群) <br>https://github.com/RuianLee/how-to-interview
 - 拉密桌遊 (水球君 Discord 社群) <br>https://github.com/RuianLee/rummikub
 - 寫作練習 (輸出自己所學) <br>https://github.com/RuianLee/thinking-how-to-write
